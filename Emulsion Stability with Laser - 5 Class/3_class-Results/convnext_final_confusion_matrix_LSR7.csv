@@ -1,0 +1,6 @@
+,pred_separated,pred_stable,pred_separationstarted,pred_possibleseparated,pred_notapplicable
+true_separated,1255,141,189,142,13
+true_stable,104,29,31,4,0
+true_separationstarted,351,50,84,39,4
+true_possibleseparated,402,3,15,116,1
+true_notapplicable,315,3,27,79,2
