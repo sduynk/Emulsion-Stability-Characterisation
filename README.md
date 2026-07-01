@@ -1,4 +1,4 @@
-# PolyChar
+# Emulsion Stability Classification
 
 Official codebase for "Computer Vision for Emulsion Characterisation using Laser and LED"
 
