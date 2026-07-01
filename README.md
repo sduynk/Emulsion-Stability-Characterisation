@@ -12,13 +12,16 @@ Emulsion samples were prepared using a Chemspeed-assisted workflow and imaged us
 ![Automated emulsion stability workflow](emulsion.png)
 
     1. Automated emulsion preparation
-    Emulsion formulations were prepared using a Chemspeed FORMAX-assisted workflow. The formulation space included different oil phases, aqueous phases, salts, and surfactants.
+    Emulsion formulations were prepared using a Chemspeed FORMAX-assisted workflow. 
+    The formulation space included different oil phases, aqueous phases, salts, and surfactants.
 
     2. Robotic image acquisition  
-    Prepared samples were transferred into 8 mL vials and imaged using a robotic platform. Images were collected using both laser and LED illumination.
+    Prepared samples were transferred into 8 mL vials and imaged using a robotic platform. 
+    Images were collected using both laser and LED illumination.
 
     3. CNN-based stability classification
-    Convolutional neural network models were trained to classify visual emulsion stability states. Separate models were trained for laser and LED datasets.
+    Convolutional neural network models were trained to classify visual emulsion stability states. 
+    Separate models were trained for laser and LED datasets.
 
 
 ## Installation
